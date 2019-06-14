@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
 s.name             = 'LXAdapter'
 s.version          = '1.0.0'
 s.summary          = 'LXAdapter'
-s.description      = <<-DESC
+s.description  = <<-DESC
 测试
-DESC    
+                   DESC
 
 s.homepage         = 'http://www.adbana.com'
 s.license          = { :type => 'MIT', :text => ''}
